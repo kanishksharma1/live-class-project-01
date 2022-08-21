@@ -6,7 +6,7 @@ KANISHK SHARMA
 
 ## What i have learnt in this project ?
 
-This was my first project as a developer more like a first step in the feild of Web development, i learnt all sort of new things in HTML like how we can divide every thing in section so we can apply CSS in each section neatly and seprately .
+This was my first project as a developer more like a first step in the feild of Web development, i learnt all sort of new things in CSS like how can i give padding , margin and all sorts of diffrent properties in particular sections neatly and seprately .
 
 ## My Honest time to finish this project ?
 
